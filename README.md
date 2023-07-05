@@ -1,6 +1,5 @@
 
 # Hi, I'm Atharv! 👋
-
 ![Logo](https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png)
 
 
