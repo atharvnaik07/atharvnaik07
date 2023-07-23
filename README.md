@@ -27,12 +27,6 @@ Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Nai
 
 💬 Problem Solving: I have a strong analytical and problem-solving mindset, allowing me to approach complex challenges efficiently
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvnaik07&show_icons=true&locale=en&layout=compact" alt="atharvnaik07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvnaik07&show_icons=true&locale=en" alt="atharvnaik07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvnaik07&" alt="atharvnaik07" /></p>
+## 📞 Contact
+Feel free to reach out to me via email at your atharvnaik91@gmail.com for any collaboration opportunities, job offers, or just to say hello! I'm always excited to connect with fellow developers and tech enthusiasts.
+Let's create something awesome together! 🚀
