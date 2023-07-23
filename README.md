@@ -3,6 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> 
 
+
+
 ## 🚀 About Me
 Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Naik , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
 ## 🔗 Links
