@@ -16,9 +16,13 @@ Hello there! Welcome to my personal README.md file. My name is Atharv Paresh Nai
 
 ## 🛠 Skills
 👩‍💻 Programming Languages: I am proficient in languages such as JavaScript, Python, Java, and C++. I have experience with both front-end and back-end development.
+
 🕸️ Web Development: I have hands-on experience in developing responsive web applications using modern web technologies like HTML5, CSS3, and various front-end frameworks such as React and Angular.
+
 🧠 Back-end Development: I am familiar with server-side technologies such as Node.js and Django, and I have worked with databases like MySQL and MongoDB.
+
 ⚡️ Version Control: I am experienced in using Git and GitHub for version control and collaborative development.
+
 💬 Problem Solving: I have a strong analytical and problem-solving mindset, allowing me to approach complex challenges efficiently
 
 
