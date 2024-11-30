@@ -1,5 +1,5 @@
 
-# Hello, I'm Atharv Naik! 👋
+# Hello, I'm Atharv! 👋
 
 Welcome to my GitHub profile. I'm a passionate and driven developer who loves to work on exciting projects and solve complex problems. Below you'll find more about my skills, technologies I work with, and some of the projects I've worked on.
 
